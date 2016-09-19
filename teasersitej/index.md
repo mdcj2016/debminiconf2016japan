@@ -1,14 +1,11 @@
 ---
-layout: layout
+layout: default
 title: Debian miniconf Japan 2016
 organizer: Debian Miniconf Japan 2016 実行委員会
 event_date: 2016-12-xx JST
 event_datetime: 2016-12-xx (土) xx:xx-yy:yy JST
 event_party_time: aa:aa-bb:bb
 ---
-
-<a name="outline"></a>
-
 ## 開催概要
    
 - 日時：{{ page.event_datetime }} (懇親会は、{{ page.event_party_time }}を予定)
