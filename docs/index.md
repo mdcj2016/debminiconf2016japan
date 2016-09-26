@@ -2,20 +2,19 @@
 layout: default
 title: Debian miniconf Japan 2016
 organizer: Debian Miniconf Japan 2016 実行委員会
-event_date: 2016-12-xx JST
-event_datetime: 2016-12-xx (土) xx:xx-yy:yy JST
+event_date: 2016-12-10 JST
+event_datetime: 2016-12-10 (土) 10:00-18:00 JST
 event_party_time: aa:aa-bb:bb
 ---
 <a name="outline"></a>
 
 ## 開催概要
    
-- 日時：{{ page.event_datetime }} (懇親会は、{{ page.event_party_time }}を予定)
-- 場所：東京都内で調整中です
-- 参加申し込み受付人数
-  - セッション： xxx人
-  - 懇親会： xxx人
-- 主催者： {{ page.organizer }}
+- 日時: {{ page.event_datetime }} (終了後、有料の懇親会を開催予定)
+- 場所: [サイボウズ株式会社](http://cybozu.co.jp/company/info/)
+  - 東京都中央区日本橋2-7-1 東京日本橋タワー
+- 参加申し込み受付人数は現在調整中です
+- 主催者: {{ page.organizer }}
 
 
 <a name="timetable"></a>
@@ -68,4 +67,4 @@ CFP(Call For Papers)の応募方法、応募に必要な内容についてはweb
 
 ## 更新履歴
 
-- 2016-10-xx: サイトを公開しました。
+- 2016-10-01: サイトを公開しました。
