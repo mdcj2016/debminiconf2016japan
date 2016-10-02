@@ -7,5 +7,5 @@
 - How to build
 
   - use jekyll. 
-  - cwd is project root, exec `jekyll build`.
+  - chdir docs direcory, exec `jekyll build`.
   - output html in _site directory.
