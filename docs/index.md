@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Debian miniconf Japan 2016
-organizer: Debian Miniconf Japan 2016 実行委員会
+title: debminiconf Japan 2016
+organizer: debminiconf Japan 2016 実行委員会
 event_date: 2016-12-10 JST
 event_datetime: 2016-12-10 (土) 10:00-18:00 JST
 event_party_time: aa:aa-bb:bb
@@ -31,8 +31,18 @@ event_party_time: aa:aa-bb:bb
 
 発表者について募集中です。
 
-CFP(Call For Papers)の応募方法、応募に必要な内容についてはwebサイトおよびtwitterなどでお知らせいたします。
+CFP(Call for proposal)の応募は以下URLから行ってください。たくさん応募いただけることをお待ちしております。
 
+- [Debminiconf Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
+
+- 記載いただく内容は以下となります。
+  - 題名
+  - 概要説明
+  - 発表者氏名
+  - 発表時間枠(30分/45分)
+  - 発表に必要な機器
+  - 連絡先Eメールアドレス
+  - 当日確実に連絡の付く連絡先
 
 <a name="register"></a>
 
@@ -49,9 +59,10 @@ CFP(Call For Papers)の応募方法、応募に必要な内容についてはweb
 
 ## 会場案内
 
-会場については、現在検討中です。場所は東京都内を予定しております。
+- 場所: [サイボウズ株式会社](http://cybozu.co.jp/company/info/)
+  - 東京都中央区日本橋2-7-1 東京日本橋タワー
 
-会場が決まりましたらwebサイト、twitterなどでお知らせいたします。
+- 会場への入り方、会場における注意事項等につきましては、後ほど本webサイトやtwitterなどでお知らせいたします。
 
 
 <a name="contactus"></a>
@@ -59,7 +70,7 @@ CFP(Call For Papers)の応募方法、応募に必要な内容についてはweb
 ## お問い合わせ
 お問い合わせは以下までご連絡いただけますようお願いいたします。
 
-- メール <a href="mailto:dummy@aaa.jp">dummyメールアドレス</a>
+- メール debian-users AT debian.or.jp (ATは半角アットマークに変換して送信してください)
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -67,4 +78,4 @@ CFP(Call For Papers)の応募方法、応募に必要な内容についてはweb
 
 ## 更新履歴
 
-- 2016-10-01: サイトを公開しました。
+- 2016-10-02: サイトを公開しました。
