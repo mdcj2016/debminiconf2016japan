@@ -1,20 +1,20 @@
 ---
 layout: default.en
-title: Debian miniconf Japan 2016
-organizer: Debian Miniconf Japan 2016 Committee
-event_date: 2016-12-xx JST
-event_datetime: 2016-12-xx (Sat) xx:xx-yy:yy JST
+title: debminiconf Japan 2016
+organizer: Debminiconf Japan 2016 Committee
+event_date: 2016-12-10 JST
+event_datetime: 2016-12-10 (Sat) 10:00-18:00 JST
 event_party_time: aa:aa-bb:bb
 ---
 <a name="outline"></a>
 
 ## Outline
    
-- datetime: {{ page.event_datetime }} (Party will be {{ page.event_party_time }})
-- place: somewhare in Tokyo, Japan
+- datetime: {{ page.event_datetime }} (After the party will open)
+- place: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
+  - address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
 - Registraion limit number of people
-  - BoFs: xxx
-  - Party: xxx
+  - In preparation...
 - Organizer: {{ page.organizer }}
 
 
@@ -22,38 +22,51 @@ event_party_time: aa:aa-bb:bb
 
 ## TimeTable
 
-現在、計画中です。なお、本イベントの開催期間は1日を予定しています。
+detail schedule is planning. The event is opened 1-day only.
 
-決まりましたら本webサイトにて公開いたします。
+Later to publish on website and SNS.
 
 <a name="speaker"></a>
 
 ## Speaker
 
-発表者について募集中です。
+The event CFP (Call for proposal) is open.
 
-CFP(Call For Papers)の応募方法、応募に必要な内容についてはwebサイトおよびtwitterなどでお知らせいたします。
+If you want to entry, clock follow URL.
 
+- [Debminiconf Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
+- Please input infomation.
+  - Title
+  - Description
+  - Your name
+  - Duration(30min/45min)
+  - Audience, level
+  - Additional requirements
+  - Email address
+  - The address where a contact sticks certainly on the day
+              
 <a name="register"></a>
 
 ## Registration
 
-参加の申し込みは、セッションへの参加と懇親会への参加に分けて行います。
+In preparation... Later to publish on website and SNS.
 
-セッションへの参加は無料、懇親会への参加は有料を予定しております。
+- Registration separateness sessions and a party.
 
-現在、参加申し込みを準備中ですので受付を開始しまたしたらwebサイト、twitterなどでお知らせいたします。
+- Participation fees
+  - No pay sessions.
+  - Some pay party.
 
 
 <a name="place"></a>
 
 ## Place
 
-会場については、現在検討中です。場所は東京都内を予定しております。
+- place: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
+  - address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
 
-会場が決まりましたらwebサイト、twitterなどでお知らせいたします。
-
+- Later to publish rules on website and SNS.
 
 <a name="contactus"></a>
 
@@ -61,7 +74,7 @@ CFP(Call For Papers)の応募方法、応募に必要な内容についてはweb
 
 Please contact us through the following channels.
 
-- Mail <a href="mailto:dummy@aaa.jp">dummy mail address</a>
+- Mail: debian-users AT debian.or.jp (replace AT to atmark)
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -69,4 +82,4 @@ Please contact us through the following channels.
 
 ## History
 
-- 2016-10-xx: initial release.
+- 2016-10-02: initial release.
