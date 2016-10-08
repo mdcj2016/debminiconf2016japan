@@ -6,6 +6,8 @@
 
 - How to build
 
-  - use jekyll. 
-  - chdir docs direcory, exec `jekyll build`.
-  - output html in _site directory.
+  - use jekyll on Debian 8(Jessie).
+  - `$ sudo apt-get install jekyll git`
+  - `git clone <url>`
+  - chdir `docs` directory, exec `jekyll build`.
+  - output html in `_site` directory.
