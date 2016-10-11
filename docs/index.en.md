@@ -1,7 +1,7 @@
 ---
 layout: default.en
-title: debminiconf Japan 2016
-organizer: Debminiconf Japan 2016 Committee
+title: Mini Debian Conference Japan 2016
+organizer: Mini Debian Conference Japan 2016 Committee
 event_date: 2016-12-10 JST
 event_datetime: 2016-12-10 (Sat) 10:00-18:00 JST
 event_party_time: aa:aa-bb:bb
@@ -34,7 +34,7 @@ The event CFP (Call for proposal) is open.
 
 If you want to entry, clock follow URL.
 
-- [Debminiconf Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
+- [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
 - Please input infomation.
   - Title
