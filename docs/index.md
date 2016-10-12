@@ -1,7 +1,7 @@
 ---
 layout: default
-title: debminiconf Japan 2016
-organizer: debminiconf Japan 2016 実行委員会
+title: Mini Debian Conference Japan 2016
+organizer: Mini Debian Conference Japan 2016 実行委員会
 event_date: 2016-12-10 JST
 event_datetime: 2016-12-10 (土) 10:00-18:00 JST
 event_party_time: aa:aa-bb:bb
@@ -33,7 +33,7 @@ event_party_time: aa:aa-bb:bb
 
 CFP(Call for proposal)の応募は以下URLから行ってください。たくさん応募いただけることをお待ちしております。
 
-- [Debminiconf Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
+- [Mini Deban Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
 - 記載いただく内容は以下となります。
   - 題名
