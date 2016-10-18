@@ -31,9 +31,12 @@ event_party_time: aa:aa-bb:bb
 
 発表者について募集中です。
 
-CFP(Call for proposal)の応募は以下URLから行ってください。たくさん応募いただけることをお待ちしております。
+CFP(Call for proposal)の応募は下記URLからお願いします。たくさんのご応募をお待ちしております。
 
 - [Mini Deban Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
+
+- 応募期限
+  - 2016年11月6日 23:59:59 (JST)
 
 - 記載いただく内容は以下となります。
   - 題名
@@ -69,9 +72,11 @@ CFP(Call for proposal)の応募は以下URLから行ってください。たく�
 <a name="contactus"></a>
 
 ## お問い合わせ
-お問い合わせは以下までご連絡いただけますようお願いいたします。
+お問い合わせは下記にご連絡いただきますようお願いいたします。
 
-- メール debian-users AT debian.or.jp (ATは半角アットマークに変換して送信してください)
+- メール debian-users AT debian.or.jp (ATは半角アットマークに変換して送信してください。）
+  - 本メールアドレスは公開メーリングリストになります。
+  - センシティブな内容の問い合わせ手段についてはおってご案内します。
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -79,4 +84,8 @@ CFP(Call for proposal)の応募は以下URLから行ってください。たく�
 
 ## 更新履歴
 
-- 2016-10-02: サイトを公開しました。
+- 2016-10-18
+  - CFP応募期限を追記しました。
+  - お問い合わせ先のメールアドレスについての注釈を入れました。
+- 2016-10-02
+  - サイトを公開しました。
