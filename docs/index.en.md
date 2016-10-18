@@ -36,6 +36,8 @@ If you want to entry, clock follow URL.
 
 - [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
+- Application period
+  - 2016-11-06 23:59:59+09:00
 - Please input infomation.
   - Title
   - Description
@@ -74,7 +76,8 @@ In preparation... Later to publish on website and SNS.
 
 Please contact us through the following channels.
 
-- Mail: debian-users AT debian.or.jp (replace AT to atmark)
+- email: debian-users AT debian.or.jp (replace AT to atmark)
+  - notice: This email address is public mailing list.
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -82,4 +85,8 @@ Please contact us through the following channels.
 
 ## History
 
-- 2016-10-02: initial release.
+- 2016-10-18
+ - Appends CFP application period.
+ - Appends notice of contact.
+- 2016-10-02
+ - Initial release.
